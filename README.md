@@ -1,6 +1,6 @@
 # GameProgramming
 
-Learning C++ / Data Structure &amp; Algorithm / STL / Game Math / WinAPI / Game Server
+Learning C++ / Data Structure &amp; Algorithm / STL / Game Math / WinAPI / Game Server <br>
 
 Start 2025-01-08
 
@@ -16,9 +16,9 @@ Start 2025-01-08
 - [x] 3. 정수의 원리 <br>
 - [x] 4. 변수 마무리 <br>
 - [ ] 5. 산술 연산 <br>
-- [] 6. 분기문 <br>
-- [] 7. 반복문 <br>
-- [] 8. 연습 문제 <br>
-- [] 9. 블루 프린트 연습 <br>
+- [ ] 6. 분기문 <br>
+- [ ] 7. 반복문 <br>
+- [ ] 8. 연습 문제 <br>
+- [ ] 9. 블루 프린트 연습 <br>
 
 ### 이후 추가 학습 시 추가 작성...
