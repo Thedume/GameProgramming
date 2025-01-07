@@ -31,6 +31,8 @@
 *.out
 *.app
 
-# 무시 파일
+# 내가 무시하는 것
 /GameProg/x64
 /GameProg/.vs
+
+GameProg/x64\
