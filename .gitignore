@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# 무시 파일
+/GameProg/x64
+/GameProg/.vs
